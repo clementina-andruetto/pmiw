@@ -1,3 +1,4 @@
+//https://youtu.be/1iDiKP1HEfg
 let imagenes = [];
 let cantidadPantallas = 15;
 let imagenGlobo;
